@@ -1,0 +1,54 @@
+Tree.png
+size: 1536, 192
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Tree_Idle
+  rotate: false
+  xy: 0,0
+  size: 192,192
+  orig: 192,192
+  offset: 0,0
+  index: 0
+Tree_Idle
+  rotate: false
+  xy: 192,0
+  size: 192,192
+  orig: 192,192
+  offset: 0,0
+  index: 1
+Tree_Idle
+  rotate: false
+  xy: 384,0
+  size: 192,192
+  orig: 192,192
+  offset: 0,0
+  index: 2
+Tree_Idle
+  rotate: false
+  xy: 576,0
+  size: 192,192
+  orig: 192,192
+  offset: 0,0
+  index: 3
+Tree_Hit
+  rotate: false
+  xy: 0,192
+  size: 192,192
+  orig: 192,192
+  offset: 0,0
+  index: 0
+Tree_Hit
+  rotate: false
+  xy: 192,192
+  size: 192,192
+  orig: 192,192
+  offset: 0,0
+  index: 1
+Tree_Chopped
+  rotate: false
+  xy: 0,384
+  size: 192,192
+  orig: 192,192
+  offset: 0,0
+  index: 0

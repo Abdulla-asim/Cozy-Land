@@ -1,0 +1,257 @@
+Pawn_Purple.png
+size: 1152, 1152
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Worker_Purple_Idle
+  rotate: false
+  xy: 0,0
+  size: 192,192
+  orig: 192,192
+  offset: 0,0
+  index: 0
+Worker_Purple_Idle
+  rotate: false
+  xy: 192,0
+  size: 192,192
+  orig: 192,192
+  offset: 0,0
+  index: 1
+Worker_Purple_Idle
+  rotate: false
+  xy: 384,0
+  size: 192,192
+  orig: 192,192
+  offset: 0,0
+  index: 2
+Worker_Purple_Idle
+  rotate: false
+  xy: 576,0
+  size: 192,192
+  orig: 192,192
+  offset: 0,0
+  index: 3
+Worker_Purple_Idle
+  rotate: false
+  xy: 768,0
+  size: 192,192
+  orig: 192,192
+  offset: 0,0
+  index: 4
+Worker_Purple_Idle
+  rotate: false
+  xy: 960,0
+  size: 192,192
+  orig: 192,192
+  offset: 0,0
+  index: 5
+Worker_Purple_Run
+  rotate: false
+  xy: 0,192
+  size: 192,192
+  orig: 192,192
+  offset: 0,0
+  index: 0
+Worker_Purple_Run
+  rotate: false
+  xy: 192,192
+  size: 192,192
+  orig: 192,192
+  offset: 0,0
+  index: 1
+Worker_Purple_Run
+  rotate: false
+  xy: 384,192
+  size: 192,192
+  orig: 192,192
+  offset: 0,0
+  index: 2
+Worker_Purple_Run
+  rotate: false
+  xy: 576,192
+  size: 192,192
+  orig: 192,192
+  offset: 0,0
+  index: 3
+Worker_Purple_Run
+  rotate: false
+  xy: 768,192
+  size: 192,192
+  orig: 192,192
+  offset: 0,0
+  index: 4
+Worker_Purple_Run
+  rotate: false
+  xy: 960,192
+  size: 192,192
+  orig: 192,192
+  offset: 0,0
+  index: 5
+Worker_Purple_Build
+  rotate: false
+  xy: 0,384
+  size: 192,192
+  orig: 192,192
+  offset: 0,0
+  index: 0
+Worker_Purple_Build
+  rotate: false
+  xy: 192,384
+  size: 192,192
+  orig: 192,192
+  offset: 0,0
+  index: 1
+Worker_Purple_Build
+  rotate: false
+  xy: 384,384
+  size: 192,192
+  orig: 192,192
+  offset: 0,0
+  index: 2
+Worker_Purple_Build
+  rotate: false
+  xy: 576,384
+  size: 192,192
+  orig: 192,192
+  offset: 0,0
+  index: 3
+Worker_Purple_Build
+  rotate: false
+  xy: 768,384
+  size: 192,192
+  orig: 192,192
+  offset: 0,0
+  index: 4
+Worker_Purple_Build
+  rotate: false
+  xy: 960,384
+  size: 192,192
+  orig: 192,192
+  offset: 0,0
+  index: 5
+Worker_Purple_Chop
+  rotate: false
+  xy: 0,576
+  size: 192,192
+  orig: 192,192
+  offset: 0,0
+  index: 0
+Worker_Purple_Chop
+  rotate: false
+  xy: 192,576
+  size: 192,192
+  orig: 192,192
+  offset: 0,0
+  index: 1
+Worker_Purple_Chop
+  rotate: false
+  xy: 384,576
+  size: 192,192
+  orig: 192,192
+  offset: 0,0
+  index: 2
+Worker_Purple_Chop
+  rotate: false
+  xy: 576,576
+  size: 192,192
+  orig: 192,192
+  offset: 0,0
+  index: 3
+Worker_Purple_Chop
+  rotate: false
+  xy: 768,576
+  size: 192,192
+  orig: 192,192
+  offset: 0,0
+  index: 4
+Worker_Purple_Chop
+  rotate: false
+  xy: 960,576
+  size: 192,192
+  orig: 192,192
+  offset: 0,0
+  index: 5
+Worker_Purple_CIdle
+  rotate: false
+  xy: 0,768
+  size: 192,192
+  orig: 192,192
+  offset: 0,0
+  index: 0
+Worker_Purple_CIdle
+  rotate: false
+  xy: 192,768
+  size: 192,192
+  orig: 192,192
+  offset: 0,0
+  index: 1
+Worker_Purple_CIdle
+  rotate: false
+  xy: 384,768
+  size: 192,192
+  orig: 192,192
+  offset: 0,0
+  index: 2
+Worker_Purple_CIdle
+  rotate: false
+  xy: 576,768
+  size: 192,192
+  orig: 192,192
+  offset: 0,0
+  index: 3
+Worker_Purple_CIdle
+  rotate: false
+  xy: 768,768
+  size: 192,192
+  orig: 192,192
+  offset: 0,0
+  index: 4
+Worker_Purple_CIdle
+  rotate: false
+  xy: 960,768
+  size: 192,192
+  orig: 192,192
+  offset: 0,0
+  index: 5
+Worker_Purple_CRun
+  rotate: false
+  xy: 0,960
+  size: 192,192
+  orig: 192,192
+  offset: 0,0
+  index: 0
+Worker_Purple_CRun
+  rotate: false
+  xy: 192,960
+  size: 192,192
+  orig: 192,192
+  offset: 0,0
+  index: 1
+Worker_Purple_CRun
+  rotate: false
+  xy: 384,960
+  size: 192,192
+  orig: 192,192
+  offset: 0,0
+  index: 2
+Worker_Purple_CRun
+  rotate: false
+  xy: 576,960
+  size: 192,192
+  orig: 192,192
+  offset: 0,0
+  index: 3
+Worker_Purple_CRun
+  rotate: false
+  xy: 768,960
+  size: 192,192
+  orig: 192,192
+  offset: 0,0
+  index: 4
+Worker_Purple_CRun
+  rotate: false
+  xy: 960,960
+  size: 192,192
+  orig: 192,192
+  offset: 0,0
+  index: 5

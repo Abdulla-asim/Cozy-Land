@@ -1,0 +1,153 @@
+Resources.png
+size:896,384
+format: RGBA8888
+filter: Linear,Linear
+repeat:none
+Resources_W_Spawn
+  rotate: false
+  xy: 0,0
+  size: 128,128
+  orig: 128,128
+  offset: 0,0
+  index: 0
+Resources_W_Spawn
+  rotate: false
+  xy: 128,0
+  size: 128,128
+  orig: 128,128
+  offset: 0,0
+  index: 1
+Resources_W_Spawn
+  rotate: false
+  xy: 256,0
+  size: 128,128
+  orig: 128,128
+  offset: 0,0
+  index: 2
+Resources_W_Spawn
+  rotate: false
+  xy: 384,0
+  size: 128,128
+  orig: 128,128
+  offset: 0,0
+  index: 3
+Resources_W_Spawn
+  rotate: false
+  xy: 512,0
+  size: 128,128
+  orig: 128,128
+  offset: 0,0
+  index: 4
+Resources_W_Spawn
+  rotate: false
+  xy: 640,0
+  size: 128,128
+  orig: 128,128
+  offset: 0,0
+  index: 5
+Resources_W_Spawn
+  rotate: false
+  xy: 768,0
+  size: 128,128
+  orig: 128,128
+  offset: 0,0
+  index: 6
+Resources_M_Spawn
+  rotate: false
+  xy: 0,256
+  size: 128,128
+  orig: 128,128
+  offset: 0,0
+  index: 0
+Resources_M_Spawn
+  rotate: false
+  xy: 128,256
+  size: 128,128
+  orig: 128,128
+  offset: 0,0
+  index: 1
+Resources_M_Spawn
+  rotate: false
+  xy: 256,256
+  size: 128,128
+  orig: 128,128
+  offset: 0,0
+  index: 2
+Resources_M_Spawn
+  rotate: false
+  xy: 384,256
+  size: 128,128
+  orig: 128,128
+  offset: 0,0
+  index: 3
+Resources_M_Spawn
+  rotate: false
+  xy: 512,256
+  size: 128,128
+  orig: 128,128
+  offset: 0,0
+  index: 4
+Resources_M_Spawn
+  rotate: false
+  xy: 640,256
+  size: 128,128
+  orig: 128,128
+  offset: 0,0
+  index: 5
+Resources_M_Spawn
+  rotate: false
+  xy: 768,256
+  size: 128,128
+  orig: 128,128
+  offset: 0,0
+  index: 6
+Resources_G_Spawn
+  rotate: false
+  xy: 0,128
+  size: 128,128
+  orig: 128,128
+  offset: 0,0
+  index: 0
+Resources_G_Spawn
+  rotate: false
+  xy: 128,128
+  size: 128,128
+  orig: 128,128
+  offset: 0,0
+  index: 1
+Resources_G_Spawn
+  rotate: false
+  xy: 256,128
+  size: 128,128
+  orig: 128,128
+  offset: 0,0
+  index: 2
+Resources_G_Spawn
+  rotate: false
+  xy: 384,128
+  size: 128,128
+  orig: 128,128
+  offset: 0,0
+  index: 3
+Resources_G_Spawn
+  rotate: false
+  xy: 512,128
+  size: 128,128
+  orig: 128,128
+  offset: 0,0
+  index: 4
+Resources_G_Spawn
+  rotate: false
+  xy: 640,128
+  size: 128,128
+  orig: 128,128
+  offset: 0,0
+  index: 5
+Resources_G_Spawn
+  rotate: false
+  xy: 768,128
+  size: 128,128
+  orig: 128,128
+  offset: 0,0
+  index: 6
+
